@@ -1,0 +1,12 @@
+{
+  "name": "Ernesto",
+  "version": "0.1.0",
+  "description": "Projet Discord",
+  "main": "main.js",
+  "repository": "https://github.com/VorGol/Bot-Discord-Ernesto.git",
+  "author": "VorGol <vorgol76@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
